@@ -148,3 +148,4 @@ You can check /public/js/client.js for a sample on how to call the Websocket API
 
 # TODO list
 - Add support for cookies / localstorage auth (to be able to screenshot authenticated pages)
+Checked by a test coding task.
